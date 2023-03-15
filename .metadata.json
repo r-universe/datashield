@@ -1,10 +1,10 @@
 [
   {
-    "package": "DSLite",
+    "package": "DSI",
     "oncran": true
   },
   {
-    "package": "DSI",
+    "package": "DSLite",
     "oncran": true
   },
   {

@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "DSLite"]
-	path = DSLite
-	url = https://github.com/datashield/dslite
-	shallow = true
-	registered = true
 [submodule "DSI"]
 	path = DSI
 	url = https://github.com/datashield/dsi
+	shallow = true
+	registered = true
+[submodule "DSLite"]
+	path = DSLite
+	url = https://github.com/datashield/dslite
 	shallow = true
 	registered = true
 [submodule "DSOpal"]
